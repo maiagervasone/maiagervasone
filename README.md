@@ -44,9 +44,9 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 # 🌐 Links:
-[![Resume](https://img.shields.io/badge/%20-Resume-critical)](https://drive.google.com/file/d/1NwFy3CwImoSQcit7vpeGyiIpzrm8DQfO/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/maia-gervasone/) 
-[![Website](https://img.shields.io/badge/%20-Portfolio%20Website%20-blueviolet)](https://sites.google.com/view/maiagervasone/home/)
+[![Resume](https://img.shields.io/badge/RESUME-B71C1C?style=for-the-badge&logo=RESUMElogoColor=white)](https://drive.google.com/file/d/1NwFy3CwImoSQcit7vpeGyiIpzrm8DQfO/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/maia-gervasone/) 
+[![Website](https://img.shields.io/badge/portfolio%20website-000000?style=for-the-badge&logo=About&logoColor=white)](https://sites.google.com/view/maiagervasone/home/)
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$
 
