@@ -44,7 +44,7 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 # 🌐 Links:
-[![Resume](https://img.shields.io/badge/RESUME-B71C1C?style=for-the-badge&logo=RESUMElogoColor=white)](https://drive.google.com/file/d/1NwFy3CwImoSQcit7vpeGyiIpzrm8DQfO/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/RESUME-B71C1C?style=for-the-badge&logo=RESUMElogoColor=white)](https://drive.google.com/file/d/1n06aB_fb9da8GZGQM3gTQ2-2CRceUE3v/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maia-gervasone/)
 [![Website](https://img.shields.io/badge/portfolio%20website-000000?style=for-the-badge&logo=About&logoColor=white)](https://sites.google.com/view/maiagervasone/home/)
 
@@ -52,6 +52,5 @@ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maiagervasone&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maiagervasone&theme=react&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maiagervasone&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maiagervasone&theme=gruvbox_light&hide_border=true&card_width=300&hide_current_streak=true&hide_longest_streak=true&layout=compact)](https://git.io/streak-stats)
